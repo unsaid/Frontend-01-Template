@@ -13,7 +13,7 @@
             a[b]
             foo`string` 
             super.b
-            super[b]
+            super[b] 
             new.target 
             new Foo()
         •New
